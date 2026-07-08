@@ -37,3 +37,9 @@ Sistema completo para gerenciamento de receitas e despesas de uma residência, c
 ```bash
 cd backend
 dotnet run
+
+### 2. Iniciar o Frontend (React)
+Abra outro terminal na pasta frontend e rode:
+```bash
+npm install
+npm run dev
