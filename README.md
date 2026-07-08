@@ -38,6 +38,8 @@ Sistema completo para gerenciamento de receitas e despesas de uma residência, c
 cd backend
 dotnet run
 
+---
+
 ### 2. Iniciar o Frontend (React)
 ```bash
 cd frontend
