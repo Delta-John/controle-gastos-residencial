@@ -39,7 +39,7 @@ cd backend
 dotnet run
 
 ### 2. Iniciar o Frontend (React)
-Abra outro terminal na pasta frontend e rode:
 ```bash
+cd frontend
 npm install
 npm run dev
