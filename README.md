@@ -33,14 +33,14 @@ Sistema completo para gerenciamento de receitas e despesas de uma residência, c
 
 ## 🚀 Como Rodar o Projeto
 
-### 1. Backend (.NET)
+1. Backend (.NET)
 ```bash
 cd backend
 dotnet run
 
 ---
 
-### 2. Iniciar o Frontend (React)
+2. Iniciar o Frontend (React)
 ```bash
 cd frontend
 npm install
